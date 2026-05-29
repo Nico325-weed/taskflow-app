@@ -1,0 +1,21 @@
+# Dependencias de Node.js
+node_modules/
+
+# Variables de entorno (contienen datos sensibles como contraseñas y claves)
+.env
+.env.local
+.env.production
+
+# Archivos temporales del sistema operativo
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Carpetas de compilacion
+dist/
+build/
