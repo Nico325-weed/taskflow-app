@@ -17,6 +17,11 @@ TaskFlow es una aplicación web que permite a los equipos organizar, asignar y d
 1. Clonar el repositorio
 2. Abrir `index.html` en el navegador
 
+## Colaboradores
+
+- Ana García (desarrolladora frontend)
+- Carlos López (desarrollador backend)
+
 ## Autores
 
 Desarrollado para TechNova.
