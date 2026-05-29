@@ -21,6 +21,11 @@ TaskFlow es una aplicación web que permite a los equipos organizar, asignar y d
 
 Version actual: v1.0.0 - En desarrollo activo.
 
+## Colaboradores
+
+- Ana García (desarrolladora frontend)
+- Carlos López (desarrollador backend)
+
 ## Autores
 
 Desarrollado para TechNova.
